@@ -2,7 +2,7 @@
 
 **Goal:** Land an ML Engineer / GPU Computing role at NVIDIA, Google, or Microsoft  
 **Timeline:** August 2027 (Campus Placements)  
-**Start Date:** February 7, 2026  
+**Start Date:** February 5, 2026  
 **Current Phase:** Python Fundamentals & Project Building
 
 ---
@@ -100,14 +100,14 @@ I'm passionate about **GPU computing** and **AI acceleration**. My goal is to:
 ## 📝 Daily Log
 
 **Week 1 Progress:**
-- **Day 1 (Feb 7):** Python basics, variables, I/O, first projects
-- **Day 2 (Feb 7):** If/else, loops, lists, built 2 games
+- **Day 1 (Feb 5):** Python basics, variables, I/O, first projects
+- **Day 2 (Feb 6):** If/else, loops, lists, built 2 games
 - **Day 3 (Feb 7):** Functions, dictionaries, GitHub setup, project building
 - **Weekend:** More projects, HackerRank practice
 
 ---
 
-*"Every expert was once a beginner. The journey to NVIDIA starts with one line of code."*
+
 
 **Last Updated:** February 7, 2026  
 **Next Milestone:** Complete 50 HackerRank problems + Start NumPy
